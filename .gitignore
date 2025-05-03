@@ -1,0 +1,15 @@
+# Node.js dependencies
+frontend/node_modules
+
+# Python environment
+backend/__pycache__
+backend/*.pyc
+backend/venv/
+
+# Temporary files
+*.log
+temp_audio.wav
+
+# OS-specific files
+.DS_Store
+Thumbs.db
